@@ -1,0 +1,2 @@
+# Certificate-on-Completion-of-Internship-from-TropicalRoots-India-Private-Limited
+Data Analyst Intern | TropicalRoots India (Jul 2026 – Oct 2026)  Extracted and analyzed operational data using MySQL and Power BI/Excel dashboards. Validated end-to-end ERP workflows (vouchers, yield, unit costs), automated internal workflows via a custom web page, and streamlined executive compliance documentation.
